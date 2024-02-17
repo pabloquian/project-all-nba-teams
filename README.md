@@ -14,9 +14,9 @@ Python (Jupiter Notebook)
 ## Features
 Unique project predicting each All NBA Team (first, second, third or NA) 
 
-## Tableau link to plots: https://public.tableau.com/app/profile/pablo.iglesias.quian/viz/all_nba_teams_presentation_plots/Min
+## Tableau link
+https://public.tableau.com/app/profile/pablo.iglesias.quian/viz/all_nba_teams_presentation_plots/Min
 
-## Data gathered by myself using: https://stathead.com
-
-
-Anything else that seems useful
+## Data gathered by myself using:
+https://stathead.com/basketball/player-season-finder.cgi
+https://en.wikipedia.org/wiki/All-NBA_Team
