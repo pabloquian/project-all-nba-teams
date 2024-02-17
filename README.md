@@ -10,6 +10,7 @@ Players that have to extend their contract that season and are voted for the All
 
 ## Built with
 Python (Jupiter Notebook)
+Tableau
 
 ## Features
 Unique project predicting each All NBA Team (first, second, third or NA) 
