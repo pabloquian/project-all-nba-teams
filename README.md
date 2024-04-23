@@ -1,7 +1,7 @@
 
 # ALL NBA TEAMS PROJECT
 
-### This is my Ironhack Data Analytics mid-bootcamp project, a project about Cleaning, Transforming and Exploring the data.
+### This is my Ironhack Data Analytics mid-bootcamp project, a project about Cleaning, Transforming and Exploring NBA data.
 
 
 Inside the `Notebooks` folder you will find three Jupyter Notebooks, where is the work I have done using Pyhton.
